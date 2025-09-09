@@ -13,8 +13,7 @@
 
 ![img](https://masterpiecer-images.s3.yandex.net/5f8baefa72b0d42:upscaled)
 
-
-'''c/python
+```c/python
 print('hello vlad')
 
-'''
+```
