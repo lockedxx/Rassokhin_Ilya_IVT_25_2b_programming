@@ -12,3 +12,13 @@
 <https://www.google.com/url?sa=i&url=https%3A%2F%2Fshedevrum.ai%2Fpost%2F5f8baefa72b0d42%2F&psig=AOvVaw2n1GxFSd4qFwHGVD_Ngc6-&ust=1757495508942000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMj7so-ry48DFQAAAAAdAAAAABAE/>
 
 ![img](https://masterpiecer-images.s3.yandex.net/5f8baefa72b0d42:upscaled)
+
+
+'''c/c++
+int main()
+    std::srand(std::time(0));
+    int number = std::rand() % 100 + 1;
+    int guess = 0;
+
+return 0
+'''
