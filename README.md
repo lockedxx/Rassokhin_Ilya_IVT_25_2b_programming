@@ -14,11 +14,7 @@
 ![img](https://masterpiecer-images.s3.yandex.net/5f8baefa72b0d42:upscaled)
 
 
-'''c/c++
-int main()
-    std::srand(std::time(0));
-    int number = std::rand() % 100 + 1;
-    int guess = 0;
+'''python
+print('hello vlad')
 
-return 0
 '''
