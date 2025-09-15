@@ -1,3 +1,3 @@
 # Лабараторные работы по предмету программирование 
 # Илья Рассохин ИВТ-25-2Б 
-![telegram-cloud-photo-size-2-5352582789570099272-y](https://github.com/user-attachments/assets/5e0d8abd-8535-45c1-b6c7-547fb8bd7819)
+![telegram-cloud-photo-size-2-5352582789570099269-y](https://github.com/user-attachments/assets/c51d52e2-eee2-40ea-937c-298df095b298)
