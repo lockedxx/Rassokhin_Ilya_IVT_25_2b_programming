@@ -1,19 +1,3 @@
 # Лабараторные работы по предмету программирование 
-## Семестр 1
-### Семестр 2
-
-*чайники нельзя* 
-## **евген кукуруза**
-~~У Жени 3к эло~~
-
-<ins>текст<ins>
-
-
-<https://www.google.com/url?sa=i&url=https%3A%2F%2Fshedevrum.ai%2Fpost%2F5f8baefa72b0d42%2F&psig=AOvVaw2n1GxFSd4qFwHGVD_Ngc6-&ust=1757495508942000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMj7so-ry48DFQAAAAAdAAAAABAE/>
-
-![img](https://masterpiecer-images.s3.yandex.net/5f8baefa72b0d42:upscaled)
-
-```c/python
-print('hello vlad')
-
-```
+# Илья Рассохин ИВТ-25-2Б 
+![telegram-cloud-photo-size-2-5352582789570099272-y](https://github.com/user-attachments/assets/5e0d8abd-8535-45c1-b6c7-547fb8bd7819)
